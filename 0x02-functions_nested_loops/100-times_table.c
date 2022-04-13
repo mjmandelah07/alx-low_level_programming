@@ -24,7 +24,7 @@ if (j != 0)
 {
 _putchar(' ');
 _putchar(' ');
-_putchar(' ')
+ _putchar(' ');
 }
 _putchar((j * i) + '0');
 }
